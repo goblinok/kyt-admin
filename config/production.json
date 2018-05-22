@@ -1,0 +1,13 @@
+{
+  "aws": {
+    "accessKeyId": "AKIAJDTNBBGKHGIBFBFQ",
+    "secretAccessKey": "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",
+    "region": "ap-northeast-2",
+    "apiVersion": "2015-03-31"
+  },
+
+  "redirectToHTTPS" : true,
+
+
+  "gethHost" : "https://mainnet.infura.io/B9CiBAdzsQj91G9FKFJY"
+}
